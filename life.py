@@ -48,7 +48,7 @@ now =
 # there must always be a trifold structure of (game) temporality:
 # 1/ past (the n-D determined set of played moves)
 # 2/ now (nothing(ness), the current situation -- meaning the _stance_ in which the player [first-hand, embodied, lived perspective], the junction of past and futures (accounting for the possible and the likely))
-# 3/ future (derivated from the "Many"ness of the possible worlds... Butterfly effect--Chaos theory. From within the Chaos of the possible arises the Realized, meaning the "what did(would, has, had, AND **WILL** (most probably) happen)")
+# 3/ future (derivated from the "Many"ness of the possible worlds... Butterfly effect--Chaos theory. From within the Chaos of the possible arises the Realized, meaning the "what did(would, has, had, AND **WILL** (most probably) happen)") 
 #       3/1/ This. This is the most complex. The à-venir is yet to come, à-venir, literally, the "yet-to-come". The Probabilistic is extramathematical and must be treated as such. Therefore, an algorithmic in-carn-ation of life(hear "game")world must be:
 #               3/1/1/ Embodied
 #               3/1/2/ In-the-world
